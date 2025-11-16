@@ -1,0 +1,14 @@
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\CommentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\CommentApp.AssemblyInfoInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\CommentApp.AssemblyInfo.cs
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\CommentApp.csproj.CoreCompileInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\CommentApp.exe
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\CommentApp.deps.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\CommentApp.runtimeconfig.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\CommentApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\CommentApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\CommentApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\refint\CommentApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\CommentApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\CommentApp.genruntimeconfig.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ref\CommentApp.dll
