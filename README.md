@@ -1,21 +1,4 @@
-# 🟣💠 **C# NEON CYBERPLAYGROUND** 💠🟣  
-*Where beginner C# scripts wake up in a neon city and learn how to survive.*
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qN88t4j6mhYxK/giphy.gif" width="500"/>
-</p>
-
----
-
-## 🧬✨ **SYSTEM BOOTING: LOADING C# MODULES…**  
-Welcome, developer-runner.  
-Your repository contains a series of **training programs** — each one teaching a core C# skill in a glowing cyberpunk world.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/DcQf50EeM1YI0/giphy.gif" width="420"/>
-</p>
-
----
+# 🟣💠 **C# ** 💠🟣  
 
 ## ⚙️ **THE MODULES INSIDE THIS DIGITAL ARCADE**
 | File | Purpose in the Neon City |
