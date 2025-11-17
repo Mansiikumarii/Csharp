@@ -1,4 +1,4 @@
-# 🟣💠 **C# ** 💠🟣  
+# 🟣💠 **C#** 💠🟣  
 
 ## ⚙️ **THE MODULES INSIDE THIS DIGITAL ARCADE**
 | File | Purpose in the Neon City |
