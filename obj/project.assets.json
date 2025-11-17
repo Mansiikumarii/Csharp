@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mansi\\OneDrive\\Desktop\\C#\\CommentApp.csproj",
-      "projectName": "CommentApp",
-      "projectPath": "C:\\Users\\mansi\\OneDrive\\Desktop\\C#\\CommentApp.csproj",
+      "projectUniqueName": "C:\\Users\\mansi\\OneDrive\\Desktop\\C#\\ArithmaticApp.csproj",
+      "projectName": "ArithmaticApp",
+      "projectPath": "C:\\Users\\mansi\\OneDrive\\Desktop\\C#\\ArithmaticApp.csproj",
       "packagesPath": "C:\\Users\\mansi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mansi\\OneDrive\\Desktop\\C#\\obj\\",
       "projectStyle": "PackageReference",

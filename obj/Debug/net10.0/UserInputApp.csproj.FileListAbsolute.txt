@@ -1,0 +1,15 @@
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.AssemblyInfoInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.AssemblyInfo.cs
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.csproj.CoreCompileInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.sourcelink.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\UserInputApp.exe
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\UserInputApp.deps.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\UserInputApp.runtimeconfig.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\UserInputApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\UserInputApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\refint\UserInputApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\UserInputApp.genruntimeconfig.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ref\UserInputApp.dll

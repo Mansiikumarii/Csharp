@@ -1,0 +1,15 @@
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.AssemblyInfoInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.AssemblyInfo.cs
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.csproj.CoreCompileInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.sourcelink.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ArithmaticApp.exe
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ArithmaticApp.deps.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ArithmaticApp.runtimeconfig.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ArithmaticApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ArithmaticApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\refint\ArithmaticApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ArithmaticApp.genruntimeconfig.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ref\ArithmaticApp.dll

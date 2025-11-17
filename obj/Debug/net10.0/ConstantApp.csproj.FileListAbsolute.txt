@@ -1,0 +1,15 @@
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ConstantApp.exe
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ConstantApp.deps.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ConstantApp.runtimeconfig.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ConstantApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\ConstantApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.AssemblyInfoInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.AssemblyInfo.cs
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.csproj.CoreCompileInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.sourcelink.json
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\refint\ConstantApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ConstantApp.genruntimeconfig.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ref\ConstantApp.dll

@@ -1,0 +1,15 @@
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\VariablesApp.exe
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\VariablesApp.deps.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\VariablesApp.runtimeconfig.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\VariablesApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\VariablesApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.AssemblyInfoInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.AssemblyInfo.cs
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.csproj.CoreCompileInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.sourcelink.json
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\refint\VariablesApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\VariablesApp.genruntimeconfig.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ref\VariablesApp.dll

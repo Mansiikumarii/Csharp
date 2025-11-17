@@ -1,0 +1,15 @@
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\TypeCastingApp.exe
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\TypeCastingApp.deps.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\TypeCastingApp.runtimeconfig.json
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\TypeCastingApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\bin\Debug\net10.0\TypeCastingApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.AssemblyInfoInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.AssemblyInfo.cs
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.csproj.CoreCompileInputs.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.sourcelink.json
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\refint\TypeCastingApp.dll
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.pdb
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\TypeCastingApp.genruntimeconfig.cache
+C:\Users\mansi\OneDrive\Desktop\C#\obj\Debug\net10.0\ref\TypeCastingApp.dll
